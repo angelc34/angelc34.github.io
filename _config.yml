@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Many thanks to my web_master mentor Ben Erickson, who guided me setting up my first website. 
   Write an awesome description for your new site here. 
   
-baseurl: "https://angelc34.pythonanywhere.com/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://angelc34.github.io/" # the base hostname & protocol for your site
 twitter_username: Zian_Chen
 github_username: angelc34 
